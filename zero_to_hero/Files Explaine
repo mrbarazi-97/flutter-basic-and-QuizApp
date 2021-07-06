@@ -1,0 +1,19 @@
+.idea : Hold some configuration for android studio
+-----------------------------
+android folder : it Hold a complete android project as you could also create it without Flutter.
+-------------------------
+build folder : it hold the output of your Flutter aplication.
+---------------
+ios : for ios OS
+-------------------------------
+lid folder : we will do 99% of our work (contains Dart files)
+------------------------------------------
+test : not importanat
+-------------------------
+.gitignore : using git for manage our source code
+---------------
+.metadata and .packages : manage automaticly by Flutter and we wont work on it .
+-------------------------------
+pubspec.lock : this file allow you to mostly manage dependencies of project
+------------------------------
+2021/07/06 3:30 A.M.   => QUIZ APP up to part 16
